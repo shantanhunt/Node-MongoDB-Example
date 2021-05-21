@@ -1,4 +1,7 @@
-# This is a Mongo DB Example
+# This is a Mongo DB Example Application
+
+## Install MongoDB 
+- [MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)
 
 ## Use the following commands to run the Mongo DB Server
 - First create a sub-folder named `data`.
