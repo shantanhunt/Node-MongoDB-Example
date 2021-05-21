@@ -8,4 +8,11 @@
 - Then in the terminal run `mongod --dbpath=data --bind_ip 127.0.0.1`
 - In another terminal run `npm start`
 
+## To Run Mongo Shell
+- Run the command `mongo`
+- To create a database named confusion, run `db` and then run `use confusion`
+
+## MongoDB Resources
+- [MongoDB Docs](https://docs.mongodb.com/manual/)
+- [Mongo Shell](https://docs.mongodb.com/manual/mongo/)
 
